@@ -29,3 +29,14 @@
 - Python开发实战 [百度云下载链接](https://pan.baidu.com/s/17u1f_TUNFZGkghlwYaPehw) 密码:e7nv
 - Python高级编程 [百度云下载链接](https://pan.baidu.com/s/1IHWpWPQH1SVXeQMB2aLD0w) 密码:rvtp
 - PythonCookBook [百度云下载链接](https://pan.baidu.com/s/1_9yDiOud0FfwKC-rzn0ZWw) 密码:htc1
+
+# java
+
+### Java基础
+
+- Head First Java [百度云下载链接](https://pan.baidu.com/s/1e9TIpYqic3F-KNLrom0Fpw) 密码:1wt4
+- Java并发编程实践 [百度云下载链接](https://pan.baidu.com/s/1fbskeD8JaZANYGGWvKrwfw) 密码:600z
+- 深入理解Java虚拟机 [百度云下载链接](https://pan.baidu.com/s/1IZL_O_f7ENMjH8ADa-BD1A) 密码:0x4w
+- Java8实战 [百度云下载链接](https://pan.baidu.com/s/1zldRSVW4TeLPuP6_fv5Znw) 密码:9tdx
+- Effective Java [百度云下载链接](https://pan.baidu.com/s/1zAxFqLPUm4WciutMCDbWuA) 密码:u1wu
+- 代码整洁之道 [百度云下载链接](https://pan.baidu.com/s/1lvMt3VFsYsk5QRSPn1MI2Q) 密码:940o
