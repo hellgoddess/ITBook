@@ -19,3 +19,13 @@
 - HTTP权威指南 [百度云下载链接](https://pan.baidu.com/s/1qDxvO1UuKaxl7tiDF049Mg) 密码:1mzy
 - 图解HTTP [百度云下载链接](https://pan.baidu.com/s/1BOryu7URoLVKe7xF2QO7Aw) 密码:2qta
 - 图解TCP-IP [百度云下载链接](https://pan.baidu.com/s/1vBH0R5vdA-aF5CPkFMn5LA) 密码:al86
+- 
+# python系列
+
+- python操作word,excel,pdf [百度云下载链接](https://pan.baidu.com/s/1InPSXRWcrnpj2QSr_yOYPw) 密码:e0p0
+
+### python基础
+- Python编程：从入门到实践 [百度云下载链接](https://pan.baidu.com/s/1iLtolOUate2BrHxVkYuESQ) 密码:im4g
+- Python开发实战 [百度云下载链接](https://pan.baidu.com/s/17u1f_TUNFZGkghlwYaPehw) 密码:e7nv
+- Python高级编程 [百度云下载链接](https://pan.baidu.com/s/1IHWpWPQH1SVXeQMB2aLD0w) 密码:rvtp
+- PythonCookBook [百度云下载链接](https://pan.baidu.com/s/1_9yDiOud0FfwKC-rzn0ZWw) 密码:htc1
