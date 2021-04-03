@@ -40,3 +40,33 @@
 - Java8实战 [百度云下载链接](https://pan.baidu.com/s/1zldRSVW4TeLPuP6_fv5Znw) 密码:9tdx
 - Effective Java [百度云下载链接](https://pan.baidu.com/s/1zAxFqLPUm4WciutMCDbWuA) 密码:u1wu
 - 代码整洁之道 [百度云下载链接](https://pan.baidu.com/s/1lvMt3VFsYsk5QRSPn1MI2Q) 密码:940o
+
+# Go
+
+- Go语言实战 [百度云下载链接](https://pan.baidu.com/s/17iTK7fhqRoZDV-XZUD8yhQ) 密码:d7kw
+- 学习Go语言 [百度云下载链接](https://pan.baidu.com/s/1IpcufPPMDvV6J6dlGdtvPg) 密码:navu
+
+
+# 设计模式
+
+- 图解设计模式 [百度云下载链接](https://pan.baidu.com/s/186Bw6c-Ikfo5F6fnX7uxoQ) 密码:9o5y
+- Head First设计模式《important》 [百度云下载链接](https://pan.baidu.com/s/1Dm3alvwHmY9cBLndU96rdQ) 密码:forb
+
+
+# 数据库
+- redis实战 [百度云下载链接](https://pan.baidu.com/s/1lPCe74sRBOdlwNe_JhLO4A) 密码:zu3n
+- MySQL必知必会 [百度云下载链接](https://pan.baidu.com/s/1roMOnqrlEBKywZDSwGlzAA) 密码:gldz
+- 高性能MySQL [百度云下载链接](https://pan.baidu.com/s/1-Mrjs-9zc88IkMU5qxTTtg) 密码:sbvm
+
+
+# 前端
+
+- HTML5与CSS3基础教程 [百度云下载链接](https://pan.baidu.com/s/1ckmtYYSJXJ1KU7hWqDCRIg) 密码:y3m7
+- Bootstrap实战 [百度云下载链接](https://pan.baidu.com/s/1p747xfLJx_aqWVNDVHOcqQ) 密码:25kw
+- jQuery高级编程 [百度云下载链接](https://pan.baidu.com/s/1NlISMERtN0nWtqcjeuaJBg) 密码:wheh
+- 【JavaScript高级程序设计（第3版）】中文 高清 [百度云下载链接](https://pan.baidu.com/s/1PpLAOcKuORDQvidZSaEOpw) 密码:q9ru
+
+
+# Linux
+
+- 鸟哥的Linux私房菜 [百度云下载链接](https://pan.baidu.com/s/10tCGLa9y5G-VNefEexIDeQ) 密码:djoc
