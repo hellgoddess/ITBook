@@ -4,9 +4,9 @@
 以后会持续收集各种书籍的！
 > 本仓库无偿分享各种各样的计算机书籍，各种专业的PDF资料和面试笔记，仓库所有权归作者海森堡（公众号：CookDev）所有
 
-希望我的分享能够给有需要的人带来帮助，也希望自己辛苦的整理能给在编程路上前行的你指出一条明道。
+双非非计算机专业，转行计算机行业，这一年多学的东西非常的多，也看了非常多的书，下面的书籍都是自己在学习的过程中，听过或者看过，精选出来的一些书，希望我的分享能够给有需要的人带来帮助，也希望自己辛苦的整理能给在编程路上前行的你指出一条明道。
 
-在这也希望大家能给我点歌star，谢谢各位
+在这也希望大家能给我点个star，谢谢各位，如果大家有什么书籍需要的，可以发信息到邮箱：505456280@qq.com,后面我慢慢更新上来！
 
 
 
@@ -39,12 +39,36 @@
 - Head_First_Python [百度云下载链接](https://pan.baidu.com/s/1C6zRSEztLC9LNnRbn84SOg) 密码:1p4q
 - Python3网络爬虫数据采集 [百度云下载链接](https://pan.baidu.com/s/1DsqtH7VY7qZr-BN1S78ZRA) 密码:6adh
 - PythonWeb开发：测试驱动方法 [百度云下载链接](https://pan.baidu.com/s/1sMdMKXUYf6FbboBK4VCapg) 密码:3xck
-- Python爬虫开发与项目实战 [百度云下载链接](https://pan.baidu.com/s/1yhQUynGeQawixx_lwovYiw) 密码:23ua
 - Effective+Python [百度云下载链接](https://pan.baidu.com/s/1vOQugMPFQtL8e57E4If5yQ) 密码:56db
 - 笨办法学Python（第四版）[百度云下载链接](https://pan.baidu.com/s/1EJpkVdd_oHkm5BtUQQcukw) 密码:5xjx
 - 流畅的python [百度云下载链接](https://pan.baidu.com/s/1baHV7hRJWyUBoGwBaPFDCg) 密码:tvmm
+- Python简明教程 [百度云下载链接](https://pan.baidu.com/s/1XjX_hc5yfhd76vgO0N4YvQ) 密码:awjj
+- 编写高质量代码改善Python程序的91个建议 [百度云下载链接](https://pan.baidu.com/s/1X4gWVxUmMtxxBiIiW7oWVg) 密码:redw
 
-# java
+
+### Python爬虫
+- Python爬虫开发与项目实战 [百度云下载链接](https://pan.baidu.com/s/1yhQUynGeQawixx_lwovYiw) 密码:23ua
+- Python3网络爬虫数据采集 [百度云下载链接](https://pan.baidu.com/s/1DsqtH7VY7qZr-BN1S78ZRA) 密码:6adh
+- 精通Scrapy网络爬虫-刘硕 [百度云下载链接](https://pan.baidu.com/s/1cSU1wcr7-UJ01dVYnUJKdw) 密码:p48r
+- 用Python写网络爬虫 [百度云下载链接](https://pan.baidu.com/s/1TVOsC9z5mo6IzTGUVDw9oQ) 密码:imoz
+
+### Python数据分析
+- Python科学计算与数据分析 [百度云下载链接](https://pan.baidu.com/s/17mKJmmIYuTKn_tCT59Ntvw) 密码:8eor
+- Python数据分析基础 [百度云下载链接](https://pan.baidu.com/s/1tqDA5BJTJo8IyGSEgDmDKQ) 密码:l50c
+- 利用Python进行数据分析 [百度云下载链接](https://pan.baidu.com/s/1AbG_XWJMYBfQhecGz3wecg) 密码:v5xz
+- Python数据分析基础教程：NumPy学习指南（第2版） [百度云下载链接](https://pan.baidu.com/s/1hAd8RZ4ooltFf8omti1rDQ) 密码:pu9x
+- Python数据分析实战_2016版 [百度云下载链接](https://pan.baidu.com/s/1JTwCAdN3vhIbYjhh0to4IQ) 密码:ibdn
+- Tableau：数据可视化之极速BI [百度云下载链接](https://pan.baidu.com/s/1TnuqDJTfepnUhJdfxPle-A) 密码:chks
+- 数据分析修炼手册 [百度云下载链接](https://pan.baidu.com/s/1pmrdE00IPxWamx22a81F4A) 密码:y1tu
+- 数据分析学习顺序 [百度云下载链接](https://pan.baidu.com/s/1vtKYSaW3WlHY_Lr9EuL3wg) 密码:6rht
+- 网络爬虫－Python和数据分析 [百度云下载链接](https://pan.baidu.com/s/1C_JtNLo9WQn6muB7lBrrmw) 密码:67ty
+- NumPy攻略-Python科学计算与数据分析 [百度云下载链接](https://pan.baidu.com/s/18gmi2c4BNngUmeKHbKuCpA) 密码:t8xy
+- Python数据可视化编程实战 [百度云下载链接](https://pan.baidu.com/s/1RpHkrpWxV7df6A0gHUwKwQ) 密码:6fp6
+
+### Python数据挖掘
+- Python编程-数据挖掘入门与实践(中文完整版)-图灵程序 [百度云下载链接](https://pan.baidu.com/s/1oQqrxInE0KFpIXDQS2bARA) 密码:8fsi
+- Python数据挖掘入门与实践 [百度云下载链接](https://pan.baidu.com/s/12-hkCTNGy8vOwFMXijg5GQ) 密码:ocs7
+- 数据挖掘导论 - 完整版 [百度云下载链接](https://pan.baidu.com/s/1ubxDoE-NokrBsd3v7HOw0w) 密码:plg0
 
 ### Java基础
 
