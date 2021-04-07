@@ -8,10 +8,11 @@
 
 在这也希望大家能给我点个star，谢谢各位，如果大家有什么书籍需要的，可以发信息到邮箱：505456280@qq.com,后面我慢慢更新上来！
 
+点击跳转到相应的内容：
 - [数据结构与算法相关书籍](https://github.com/hellgoddess/ITBook/blob/main/README.md#%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E7%9B%B8%E5%85%B3%E4%B9%A6%E7%B1%8D)
 - [计算机基础](https://github.com/hellgoddess/ITBook/blob/main/README.md#%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80)
 - [python](https://github.com/hellgoddess/ITBook/blob/main/README.md#python%E7%B3%BB%E5%88%97)
-- [java](https://github.com/hellgoddess/ITBook/blob/main/README.md#%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E7%9B%B8%E5%85%B3%E4%B9%A6%E7%B1%8D)
+- [java](https://github.com/hellgoddess/ITBook/blob/main/README.md#java%E5%9F%BA%E7%A1%80)
 - [go](https://github.com/hellgoddess/ITBook/blob/main/README.md#go)
 - [设计模式](https://github.com/hellgoddess/ITBook/blob/main/README.md#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 - [数据库](https://github.com/hellgoddess/ITBook/blob/main/README.md#%E6%95%B0%E6%8D%AE%E5%BA%93)
