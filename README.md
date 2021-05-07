@@ -37,7 +37,15 @@
 - HTTP权威指南 [百度云下载链接](https://pan.baidu.com/s/1qDxvO1UuKaxl7tiDF049Mg) 密码:1mzy
 - 图解HTTP [百度云下载链接](https://pan.baidu.com/s/1BOryu7URoLVKe7xF2QO7Aw) 密码:2qta
 - 图解TCP-IP [百度云下载链接](https://pan.baidu.com/s/1vBH0R5vdA-aF5CPkFMn5LA) 密码:al86
-- 
+- Http核心总结 [百度云下载链接] (https://pan.baidu.com/s/1OAZrdyyklBjWlxdFxOrq4w) 密码：581x
+- TCP-IP详解卷1：协议 原书第2版 [百度云下载链接](https://pan.baidu.com/s/1ktDqR7NSiurIGNqbfvSYBQ) 密码:yz4y
+- TCP-IP详解卷二：实现 [百度云下载链接](https://pan.baidu.com/s/1RkiQObHlmBScrUg1mdwbDw) 密码:265p
+- TCP-IP详解卷三 [百度云下载链接](https://pan.baidu.com/s/1roS3BfCBN2myNhvfiRzztw) 密码:eh5v
+- tcp源码分析 [百度云下载链接](https://pan.baidu.com/s/1Yu_jVRcyQO8B-pUvsV6AcA) 密码:fqxm
+- Wireshark网络分析的艺术 [百度云下载链接](https://pan.baidu.com/s/1OPEbhTQ7Q1y2yWuuFnWPLA) 密码：rysw
+- 计算机网络 第七版 [百度云下载链接](https://pan.baidu.com/s/1sbUAoXxAkS1JVi1rwjz4QQ) 密码：6j4i
+- 网络是怎样连接的 (图灵程序设计丛书) [百度云下载链接](https://pan.baidu.com/s/1PIS--C4KKkxrg1-weec-5A) 密码：oj6b
+
 # python系列
 
 - python操作word,excel,pdf [百度云下载链接](https://pan.baidu.com/s/1InPSXRWcrnpj2QSr_yOYPw) 密码:e0p0
