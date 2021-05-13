@@ -63,6 +63,8 @@
 - 流畅的python [百度云下载链接](https://pan.baidu.com/s/1baHV7hRJWyUBoGwBaPFDCg) 密码:tvmm
 - Python简明教程 [百度云下载链接](https://pan.baidu.com/s/1XjX_hc5yfhd76vgO0N4YvQ) 密码:awjj
 - 编写高质量代码改善Python程序的91个建议 [百度云下载链接](https://pan.baidu.com/s/1X4gWVxUmMtxxBiIiW7oWVg) 密码:redw
+- Python基础教程第三版 [百度云下载链接](https://pan.baidu.com/s/1-WTaC_zMy4a-QhrJAR2RuA) 密码：4g2p
+
 
 
 ### Python爬虫
